@@ -1,6 +1,8 @@
 # Note Taker Starter Code
 https://github.com/chichiulam2022/Note_Taker
 
+Deployed Heroku App: https://notetaker-chichiulam.herokuapp.com/
+
 ## Description
 This project allows users to take and save their notes using Express.
 
