@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker App
 https://github.com/chichiulam2022/Note_Taker
 
 Deployed Heroku App: https://notetaker-chichiulam.herokuapp.com/
